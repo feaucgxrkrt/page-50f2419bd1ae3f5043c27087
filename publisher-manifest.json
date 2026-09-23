@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "297c1853b2b0c3734811e0be",
+  "owner": "feaucgxrkrt",
+  "repo": "page-50f2419bd1ae3f5043c27087",
+  "title": "Faisco",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "50f2419bd1ae3f5043c27087",
+      "a": "Faisco",
+      "b": "2027官方最新地址导航",
+      "entity": "Faisco",
+      "brand": "Faisco",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6031cdf6d0674536462af388307bd859463ae9db5ccfb5430a00186914d9c0c5",
+      "content": {
+        "primary_entity": "Faisco",
+        "keyword1": "Faisco",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选客户端，导入订阅后连接节点，配置细节请查阅对应客户端文档。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "了解套餐差异后，选择合适的方案开始配置订阅。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_DESCRIPTION": "，围绕设备数量、流量需求和订阅周期提供基础版、旗舰版与团队版三档选择。基础版适配轻度浏览与少量设备，旗舰版适合多设备流媒体与游戏加速，团队版面向高并发与定制路由场景。各档均支持按年付费，客户端覆盖常见桌面与移动平台。",
+          "AI_FEATURES_INTRO": "从流量额度、设备上限和节点类型三个方面区分套餐规格。",
+          "AI_FEATURES_TITLE": "套餐差异速览",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线并优化游戏延迟，团队版配备 VIP 高带宽节点，可按需选择线路类型。",
+          "AI_FEATURE_TEXT_3": "三档均支持月付或年付，年付价格分别为 ¥150、¥350 与 ¥850，长期使用可降低月均成本。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "节点与线路",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先明确设备数量和流量需求，再对照客户端说明完成订阅配置。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "Faisco 提供多档海外加速订阅，覆盖流媒体、游戏与办公场景，按设备数量和流量额度选择套餐，在常用客户端中导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "年付方案降低月均成本",
+          "AI_PLANS_INTRO": "基础版 100GB 流量与 3 台设备、旗舰版 300GB 与 5 台设备、团队版 1000GB 与 20 台设备，可按月付或年付。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量和月流量估算，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "对照设备系统查看适配要求，确认客户端支持当前系统版本。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅链接，完成节点选择与连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Faisco 加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Faisco 三档套餐主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，提供 VIP 专属高带宽节点。",
+          "AI_FAQ_QUESTION_2": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，相当于月付 ¥12.5；旗舰版年付 ¥350，比月付累计省 ¥70；团队版年付 ¥850，也比逐月购买更划算。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "购买后在账户中获取订阅地址，打开对应平台的客户端，按客户端文档说明粘贴或扫码导入，选择线路后即可连接。",
+          "AI_FAQ_QUESTION_4": "设备数量超出套餐上限怎么办？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数按档位限制，超出时可升级至更高档位，例如从基础版升级到旗舰版或团队版，以获得更多同时在线名额。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速优化，适合对延迟和线路稳定性要求较高的实时对战、语音通话等场景，日常浏览与流媒体同样可用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yangshanrc.cn",
+    "host": "yangshanrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "70e44b3ed1e0e48a53f6b9632f39c9aeba9afcd6af04a85536f7a544a682cab5",
+    "sitemap.xml": "1c99b1faf84e92f56610209944980b50ab4331bbd9e3c848791065d5516cfc34",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "edfccfdd4ddff75d8a927e97ab2680284ab9a4c61233d961e2c65d62f8806af4",
+    "robots.txt": "d800c9eb8ecd08ec9586b67ec977da9199c97179625f39eb8dfa6eaf8baca932",
+    "3e0ee840f4554cf7bf2e31a30e1e1633.txt": "2c3540da8e83f111aa426ecd5a894a6b9418e72efb47f3765b8d4b35c2d233fc"
+  },
+  "revision": "ed1b24b185a70315c40f0272bc20488d3bb6004d4f7e4127803f90e659771397"
+}
